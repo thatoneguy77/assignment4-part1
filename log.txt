@@ -1,0 +1,23 @@
+Start: Tues, 3 Feb 2015 16:14:00
+end: Tues, 3 Feb 2015 18:23:00
+Tasks: During this time I created the multtable file and toyed around with the lecture code to get a feel for things.  I am at the point where I need to check to see if the values are ints.
+
+Start: Wed, 4 Feb 2015 09:22:00
+End: Wed, 4 Feb 2015 12:17:00
+Tasks: During this time I implementd error handling for multtable file and am now working on creating the table with the correct output.
+
+Start: Wed, 4 Feb 2015 16:22:00
+End: Wed, 4 Feb 2015 18:13:00
+Tasks: During this time I created a table that displayed the correct results.  It took some tinkering to get it how I wanted and I'm positive there are better ways to do it.  The multtable file is now completed.  Also a note on the amount of time it is taking me to complete these tasks.  I take my dog about around once an hour for ten minutes at a time.  I have not been creating seperate worklogs to show these ten minutes breaks plus however long it takes me to get going again.
+
+Start: Thurs, 5 Feb 2015 09:10:00
+End: Thurs, 5 Feb 2015 11:30:00
+Tasks: During this time I completed the loopback file.
+
+Start: Thurs, 5 Feb 2015 15:30:00
+End: Thurs, 5 Feb 2015 18:27:00
+Tasks: During this time I started on the login, content1, and content2 files.  I am not working with destroying the session.
+
+Start: Fri, 6 Feb 2015 08:38:00
+End: Fri, 6 Feb 2015 09:53:00
+Tasks: During this time I completed the login, content1, and content2 files.  For me the most time consuming part was figuring out how to redirect to the login in page if they tried to get to the content pages without ever going through the login page.
